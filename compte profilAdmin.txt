@@ -1,0 +1,4 @@
+admin|admin123
+moderateur|mod2023
+azerty|1234
+
